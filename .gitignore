@@ -248,3 +248,5 @@ dist
 .vscode/
 data/
 /notes/
+
+.DS_Store
